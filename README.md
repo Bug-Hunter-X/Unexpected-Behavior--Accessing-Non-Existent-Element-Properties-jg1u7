@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug: attempting to access a property of an element that doesn't exist. The bug.html file contains the buggy code, while the solution.html file shows how to fix it.  The problem is that accessing a non-existent property results in 'undefined', which may not always be handled correctly, potentially breaking functionality.
